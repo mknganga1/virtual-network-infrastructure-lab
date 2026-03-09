@@ -6,7 +6,7 @@ This project demonstrates how to build and configure a basic network infrastruct
 The lab simulates a small network environment with a server and client machines.
 
 The server (godfather) provides core network services including:
-
+the private network is called "godfather.youngbuck.local"
 - DHCP Server
 - DNS Server
 - Web Server
@@ -47,4 +47,4 @@ NAT Network
 Server VM (godfather)
 (DHCP, DNS, Web)
    |
-Client VM (youngbuck)
+Client VM (spoiltbrat)
